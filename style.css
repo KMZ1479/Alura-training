@@ -105,10 +105,7 @@ section {
     
 }
 
-.flex_container{
-   
 
-}
 
 .resultado {   
 box-sizing: border-box;
@@ -181,12 +178,13 @@ border-radius: 20px;
  
     
 }
-
-.vendor{
-    margin-left: 37.7%;
+/*Vendor Solo letras minuscula  */
+.informacion,.alert-circle-outline{
     display: flex;
+    margin-left: 37.4%;
     margin-top: -1.4%;
     color: #0A3871;
+
 
 }
 
