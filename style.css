@@ -123,8 +123,7 @@ border-radius: 32px;
 
 }
 
-#textoDesencriptado ::placeholder{
-}
+
 
 #textoDesencriptado{
     background: linear-gradient(lightblue,#3e5da3);
@@ -184,10 +183,11 @@ border-radius: 20px;
 }
 
 .vendor{
-    margin-left: 25%;
+    margin-left: 37.7%;
     display: flex;
-    margin-top: -2.8%;
+    margin-top: -1.4%;
     color: #0A3871;
+
 }
 
 .both_buttons{
