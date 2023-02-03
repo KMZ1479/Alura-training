@@ -181,12 +181,12 @@ border-radius: 20px;
 /*Vendor Solo letras minuscula  */
 .informacion,.alert-circle-outline{
     display: flex;
-    margin-left: 37%;
+    margin-left: 38%;
     margin-top: -1.4%;
     color: #0A3871;
-
-
 }
+
+
 
 .both_buttons{
     text-align: center;
@@ -208,6 +208,11 @@ border-radius: 20px;
     transform: scale(1.1);
    
 }
+
+.lock-open{
+    margin-right: -5%;
+
+}
 #botonEncriptado
 {
     font-size: 15px;
@@ -220,7 +225,9 @@ border-radius: 20px;
     margin-right: 2%;
     
 }
-
+.lock-open{
+    margin-right: -10%;
+}
 #botonDesencriptado
 {
     font-size: 15px;
